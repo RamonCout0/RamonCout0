@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=73b1ea"/>
 
 <div align="center">
-  <h4>システムアナリスト</h4>
+  <p>システムアナリスト</p>
 </div>
 
 <div align="center" width="100%">
