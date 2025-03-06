@@ -61,6 +61,10 @@
 
 <br>
 
+##
+
+<br>
+
 <div align="center">
 
   [![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:kamillymedino2@gmail.com)
@@ -86,6 +90,9 @@
   </p>
 
 </div>
+
+##
+
 </details>
 
 <br>
