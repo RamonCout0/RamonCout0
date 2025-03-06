@@ -1,34 +1,36 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=73b1ea"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=e41d44"/>
 
 <div align="center">
   <p>システムアナリスト</p>
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&color=73b1ea&width=900&size=30&center=true&lines=Hello!+My+name+is+Kamilly;I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&color=5cadc0&width=900&size=30&center=true&lines=Hello!+My+name+is+Kamilly;I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
 </div>
 
 <br>
 <br>
 <div align="center">
 
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kamillyvm&theme=blueberry) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kamillyvm&theme=blueberry) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kamillyvm&theme=blueberry&utcOffset=8) |
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kamillyvm&theme=highcontrast) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kamillyvm&theme=highcontrast) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kamillyvm&theme=highcontrast&utcOffset=8) |
 | :-: | :-: | :-: |
 
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamillyvm&theme=blueberry) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kamillyvm&theme=blueberry&hide_border=true)](https://git.io/streak-stats) |
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamillyvm&theme=highcontrast) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kamillyvm&theme=neon-dark)](https://git.io/streak-stats) |
 | :-: | :-: |
   
 </div>
 
+<img align="right" height="470" src="https://imgur.com/zUTe29I.png"  />
+
 <div align="center">
 
-  [![Gmail](https://img.shields.io/badge/Gmail-162647?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:kamillymedino2@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-162647?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/kamyzmedino/?next=%2F)
-  [![Reddit](https://img.shields.io/badge/Reddit-162647?style=for-the-badge&logo=Reddit&logoColor=fff)](https://www.reddit.com/user/kamomiila/)
-  [![Twitch](https://img.shields.io/badge/Twitch-162647?style=for-the-badge&logo=twitch&logoColor=fff)](https://www.twitch.tv/kamomiilla)
-  [![Discord](https://img.shields.io/badge/Discord-162647?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.com/invite/THnDtr3B)
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-162647?style=for-the-badge&logo=whatsapp&logoColor=fff)](https://wa.me/5584988964920)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-162647?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/kamilly-medino-b72a3b33a/)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:kamillymedino2@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/kamyzmedino/?next=%2F)
+  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.gg/8kc8HqXVw2)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=fff)](https://wa.me/5584988964920)
+  [![Twitch](https://img.shields.io/badge/Twitch-9143FF?style=for-the-badge&logo=twitch&logoColor=fff)](https://www.twitch.tv/kakamomila)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/kamilly-medino-b72a3b33a/)
+  [![Reddit](https://img.shields.io/badge/Reddit-ff4500?style=for-the-badge&logo=Reddit&logoColor=fff)](https://www.reddit.com/user/kamomiila/)
   
   
 </div>
@@ -56,7 +58,7 @@
 <br>
 
 <div align="center">
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fkamillyvm&s=30&c=73b1ea&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
+  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fkamillyvm&s=30&c=f9dd3c&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
 
 </div>
 <div align="center"> 
@@ -75,4 +77,4 @@
 <br>
 <br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=73b1ea&height=110&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e41d44&height=110&section=footer"/>
