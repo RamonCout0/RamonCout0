@@ -49,7 +49,7 @@
             </a>
           </td>
           <td>
-            <a https://github.com/kamillyvm>
+            <a href="https://github.com/kamillyvm">
               <img
                 height=180
                 align="center"
@@ -85,10 +85,10 @@
           <td>
             <a https://github.com/kamillyvm>
               <img
-                height=180
+                height=154
                 align="center"
                 alt="Top Language"
-                src="https://github-readme-streak-stats.herokuapp.com?user=kamillyvm&theme=tokyonight&hide_border=true&card_width=850"
+                src="https://github-readme-streak-stats.herokuapp.com?user=kamillyvm&theme=tokyonight&hide_border=true&card_width=1000"
               />
             </a>
           </td>
