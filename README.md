@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=5cadc0"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6fa3fa"/>
 
 <div align="center">
   <samp>
@@ -9,7 +9,7 @@
       <br>
 </div>
 <div align="center">
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fkamillyvm&s=21&c=5cadc0&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
+  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fkamillyvm&s=21&c=bf91f3&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
 </div>
       
 <br>
@@ -23,7 +23,7 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ae2323&width=900&size=21&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=38bdae&width=900&size=21&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
 </div>
 
 <br>
@@ -34,14 +34,66 @@
       </samp>
     </summary>
     <br>
+
 <div align="center">
+      <table>
+        <tr>
+          <td>
+            <a href="https://github.com/kamillyvm">
+              <img
+                height=180
+                align="center"
+                alt="GitHub Stats"
+                src="https://github-readme-stats.vercel.app/api/?username=kamillyvm&show_icons=true&count_private=true&rank_icon=github&hide_border=true&theme=tokyonight&font=Iosevka"
+              />
+            </a>
+          </td>
+          <td>
+            <a https://github.com/kamillyvm>
+              <img
+                height=180
+                align="center"
+                alt="Top Language"
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamillyvm&layout=compact&hide_border=true&font=Iosevka&langs_count=16&theme=tokyonight"
+              />
+            </a>
+          </td>
+        </tr>
+      </table>
+</div>
 
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kamillyvm&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kamillyvm&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kamillyvm&theme=nord_dark&utcOffset=8) |
-| :-: | :-: | :-: |
+<div align="center">
+      <table>
+        <tr>
+          <td>
+            <a https://github.com/kamillyvm>
+              <img
+                height=225
+                align="center"
+                alt="Top Language"
+                src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamillyvm&theme=tokyonight"
+              />
+            </a>
+          </td>
+        </tr>
+      </table>
+</div>
 
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamillyvm&theme=nord_dark) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kamillyvm&theme=nord)](https://git.io/streak-stats) |
-| :-: | :-: |
-  
+<div align="center">
+      <table>
+        <tr>
+          <td>
+            <a https://github.com/kamillyvm>
+              <img
+                height=180
+                align="center"
+                alt="Top Language"
+                src="https://github-readme-streak-stats.herokuapp.com?user=kamillyvm&theme=tokyonight&hide_border=true&card_width=850"
+              />
+            </a>
+          </td>
+        </tr>
+      </table>
 </div>
 
 <div align="center" style="display: inline_block"><br>
@@ -95,4 +147,4 @@
 <br>
 <br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5cadc0&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6fa3fa&height=100&section=footer"/>
