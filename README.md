@@ -36,65 +36,34 @@
     <br>
 
 <div align="center">
-      <table>
-        <tr>
-          <td>
-            <a href="https://github.com/kamillyvm">
-              <img
-                height=180
-                align="center"
-                alt="GitHub Stats"
-                src="https://github-readme-stats.vercel.app/api/?username=kamillyvm&show_icons=true&count_private=true&rank_icon=github&hide_border=true&theme=tokyonight&font=Iosevka"
-              />
-            </a>
-          </td>
-          <td>
-            <a href="https://github.com/kamillyvm">
-              <img
-                height=180
-                align="center"
-                alt="Top Language"
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamillyvm&layout=compact&hide_border=true&font=Iosevka&langs_count=16&theme=tokyonight"
-              />
-            </a>
-          </td>
-        </tr>
-      </table>
-</div>
-
-<div align="center">
-      <table>
-        <tr>
-          <td>
-            <a https://github.com/kamillyvm>
-              <img
-                height=225
-                align="center"
-                alt="Top Language"
-                src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamillyvm&theme=tokyonight"
-              />
-            </a>
-          </td>
-        </tr>
-      </table>
-</div>
-
-<div align="center">
-      <table>
-        <tr>
-          <td>
-            <a https://github.com/kamillyvm>
-              <img
-                height=154
-                align="center"
-                alt="Top Language"
-                src="https://github-readme-streak-stats.herokuapp.com?user=kamillyvm&theme=tokyonight&hide_border=true&card_width=1000"
-              />
-            </a>
-          </td>
-        </tr>
-      </table>
-</div>
+  <img
+    height=165
+    align="center"
+    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api/?username=kamillyvm&show_icons=true&count_private=true&rank_icon=github&hide_border=true&theme=tokyonight&font=Iosevka"
+  />
+  <img
+    height=165
+    align="center"
+    alt="Top Language"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamillyvm&layout=compact&hide_border=true&font=Iosevka&langs_count=16&theme=tokyonight"
+  />
+  <br>
+  <br>
+  <img
+    align="center"
+    alt="Top Language"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamillyvm&theme=tokyonight"
+  />
+  <br>
+  <br>
+  <img
+    height=154
+    align="center"
+    alt="Top Language"
+    src="https://github-readme-streak-stats.herokuapp.com?user=kamillyvm&theme=tokyonight&hide_border=true&card_width=885"
+  />
+  </div>
 
 <div align="center" style="display: inline_block"><br>
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CPP.svg" />
