@@ -68,17 +68,6 @@
     src="https://github-readme-streak-stats.herokuapp.com?user=kamillyvm&theme=tokyonight&hide_border=true&card_width=885"
   />
   </div>
-  
-  <br>
-  <br>
-  
-  <samp>
-    <b>
-      Skills & Tools:
-    </b>
-  </samp>
-  
-  <br>
 
 <div align="center" style="display: inline_block"><br>
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CPP.svg" />
