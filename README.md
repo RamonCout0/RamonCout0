@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6fa3fa"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=5f15a9"/>
 
 <div align="center">
   <samp>
@@ -6,26 +6,23 @@
       システムアナリスト
     </b>
       <br>
-      Hi there! I'm Kamilly Medino
+      Sou o Ramon Couto
       <br>
   </samp>
 </div>
 <div align="center">
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fkamillyvm&s=21&c=bf91f3&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
+  <p align="center"><img align="center" <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FRamonCout0&s=40&c=5f15a9&bg=00000000&no=2&ff=alien&tb=Visitantes%3A+&ta=" alt="visits"> </p> 
 </div>
       
 <br>
 <br>
       
 <div align="center">
-  <img src="https://imgur.com/zeuHIk9.gif" width="200">
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/kami_♡-black" />
+  <img src="https://imgur.com/ikYDOuo.gif" width="300">
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=38bdae&width=900&size=21&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=5f15a9&width=900&size=21&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
 </div>
 
 <br>
@@ -44,30 +41,24 @@
     height=165
     align="center"
     alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api/?username=kamillyvm&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&font=Iosevka"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RamonCout0&theme=tokyonight"
   />
   <img
     height=165
     align="center"
     alt="Top Language"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamillyvm&layout=compact&font=Iosevka&langs_count=16&theme=tokyonight"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RamonCout0&theme=tokyonight"
   />
   <br>
   <br>
   <img
     align="center"
     alt="Top Language"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamillyvm&theme=tokyonight"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RamonCout0&theme=tokyonight"
   />
   <br>
   <br>
-  <img
-    height=154
-    align="center"
-    alt="Top Language"
-    src="https://github-readme-streak-stats.herokuapp.com?user=kamillyvm&theme=tokyonight&card_width=885"
-  />
-  </div>
+
 
 <div align="center" style="display: inline_block"><br>
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CPP.svg" />
