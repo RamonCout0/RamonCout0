@@ -58,6 +58,9 @@
   />
   <br>
   <br>
+  <img align="center 
+    alt="Status" 
+    src =  "https://github-readme-streak-stats.herokuapp.com?user=RamonCout0&theme=ocean-dark&locale=pt_BR)](https://git.io/streak-stats"/>
 
 
 <div align="center" style="display: inline_block"><br>
