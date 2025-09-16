@@ -7,11 +7,12 @@
     Estudante de TADS, e um Desenvolvedor Indie. 
     Toma o famoso gap do meu perfil do github em fase de crescimento!
   </samp>
+  <br<
 
 
 <br>
 <div align="center">
-  <img src="https://imgur.com/ikYDOuo.gif" width="300">
+<blockquote class="imgur-embed-pub" lang="en" data-id="xdNldWq"  ><a href="//imgur.com/xdNldWq">P5A Joker and Crow</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 </div>
 <br>
 
