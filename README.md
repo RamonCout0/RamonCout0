@@ -3,7 +3,9 @@
 <div align="center">
   <samp>
     <br>
-    Sou o Ramon Couto
+   Olá, sou o Ramon Couto!
+    Estudante de TADS, e um Desenvolvedor Indie. 
+    Toma o famoso gap do meu perfil do github em fase de crescimento!
   </samp>
 </div>
 
