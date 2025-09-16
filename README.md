@@ -2,17 +2,12 @@
 
 <div align="center">
   <samp>
-    <b>システムアナリスト</b>
     <br>
     Sou o Ramon Couto
   </samp>
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=5f15a9&width=500&size=21&center=true&lines=Estudante+de+ADS;Designer;Seja+Bem-vindo!" alt="Typing SVG"/>
-</div>
 
 <br>
 
@@ -21,6 +16,9 @@
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Light.svg"/>
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg"/>
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Godot-Dark.svg"/>
+  <img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Blender-Dark.svg"/>
+  <img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Lua-Dark.svg"/>
+  
 </div>
 
 <br>
