@@ -7,13 +7,12 @@
     Estudante de TADS, e um Desenvolvedor Indie. 
     Toma o famoso gap do meu perfil do github em fase de crescimento!
   </samp>
-</div>
-<div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=5f15a9&width=900&size=21&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
-</div>
+
 
 <br>
-
+<div align="center">
+  <img src="https://imgur.com/ikYDOuo.gif" width="300">
+</div>
 <br>
 
 <div align="center" style="display: inline_block">
