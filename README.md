@@ -1,19 +1,19 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=5f15a9"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=E64747&text=Toma%20gap%20do%20Ramones&section=header&textBg=false&animation=twinkling&fontSize=33&desc=33&fontAlign=50&fontAlignY=30"/>
+
 
 <div align="center">
-  <samp>
-    <br>
+<h3>
    Olá, sou o Ramon Couto!
     Estudante de TADS, e um Desenvolvedor Indie. 
     Toma o famoso gap do meu perfil do github em fase de crescimento!
-  </samp>
-  <br<
+  </h3>
+  <br>
 
 
 <br>
 <div align="center">
-<blockquote class="imgur-embed-pub" lang="en" data-id="xdNldWq"  ><a href="//imgur.com/xdNldWq">P5A Joker and Crow</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-</div>
+<img width="30%" src="https://media1.tenor.com/m/mTkdB9xEUa4AAAAd/makoto-yuki-persona3.gif">
+
 <br>
 
 <div align="center" style="display: inline_block">
@@ -36,6 +36,10 @@
   [![Instagram](https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/sun.ch_/)
 </div>
 
+<div align="center">
+<img width="30%" src="https://media.tenor.com/ku6a_mnveLgAAAAi/persona-persona-3.gif">
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6fa3fa&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=100&section=footer&text=Farmando%20muito%2033&fontSize=33&fontAlign=50&fontAlignY=70&textBg=false&animation=twinkling&fontColor=000000"/>
+
+
