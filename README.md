@@ -18,7 +18,6 @@
 
 <div align="center" style="display: inline_block">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Light.svg"/>
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Light.svg"/>
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg"/>
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Godot-Dark.svg"/>
   <img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Blender-Dark.svg"/>
