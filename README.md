@@ -91,7 +91,7 @@
 * **Astral Ascension**:  (Em desenvolvimento) -> **https://github.com/RamonCout0/raid-33**
 
 ### 👁️ Machine Learning / Data Science
-* **AliceBOT**: Um bot do discord criado afim de pesquisas. (Na fase de otimização) -> **https://github.com/RamonCout0/AliceIA**
+* **Trio_IA**: Era um único bot, porém foi divido em 3. (Na fase de otimização) -> **https://github.com/RamonCout0/Trio_IA**
 * **ArgosProject**: Uma pesquisa mais avançada de IA, Argos é um projeto para desenvolver a mente de um robô físico HEXAPOD (Na fase mudança de tecnologia) -> **https://github.com/RamonCout0/Projeto_Argos**
 
 <br>
