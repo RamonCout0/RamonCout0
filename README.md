@@ -18,7 +18,7 @@
 ### Criador da comunidade Gatuno de Estrelas.
 
 > *"A única limitação da sua vida é aquela que você mesmo impõe."* <br> <br>
-> "A nossa ambição faz que vamos atrás de nossos sonhos, e eu não irei destistir, Enquanto eu tiver com saúde, vamos se divertir em todos os nossos momentos, e assim criamos histórias da nossa jornada."  - Toma gap do ramones
+> "A nossa ambição faz a gente atrás de nossos sonhos, e eu não irei destistir, Enquanto eu tiver com saúde, vamos se divertir em todos os nossos momentos, e assim criamos histórias da nossa jornada."  - Toma gap do ramones
 <br>
 <img width="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGNmc3oyYXN3N2JtbzJ6NnloY3lodm90cTF3eTZsZXE0NmxvcGpiNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/873uvl8mzbfpWofOvF/giphy.gif" alt="Gif animado placeholder">
 <br>
