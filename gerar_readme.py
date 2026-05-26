@@ -60,13 +60,14 @@ for name, url in assets.items():
         b64_assets[name] = ""
 
 # HTML e CSS Atualizados
-svg_template = f"""<svg fill="none" viewBox="0 0 850 820" width="850" height="820" xmlns="http://www.w3.org/2000/svg">
+# HTML e CSS Atualizados (Sem as tags de links que o GitHub bloqueia)
+svg_template = f"""<svg fill="none" viewBox="0 0 850 780" width="850" height="780" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
         .container {{
           width: 846px;
-          height: 816px;
+          height: 776px;
           background: linear-gradient(145deg, #090d16 0%, #1e1b4b 40%, #311042 75%, #090d16 100%);
           border: 2px solid #a855f7;
           border-radius: 20px;
@@ -91,11 +92,10 @@ svg_template = f"""<svg fill="none" viewBox="0 0 850 820" width="850" height="82
           text-align: center;
           padding: 10px 20px;
         }}
-        /* A MAGIA PARA SPRITES DE RESOLUÇÕES DIFERENTES */
         .side-sprite {{
           width: 70px;
           height: 70px;
-          object-fit: contain; /* Encaixa sem distorcer */
+          object-fit: contain;
           margin: 40px auto;
           display: block;
           filter: drop-shadow(0 0 8px rgba(168, 85, 247, 0.5));
@@ -162,12 +162,9 @@ svg_template = f"""<svg fill="none" viewBox="0 0 850 820" width="850" height="82
           width: 140px;
           height: auto;
           border-radius: 10px;
-          margin: 10px 0 24px 0;
+          margin: 10px 0 10px 0;
           box-shadow: 0 8px 24px rgba(0,0,0,0.5);
         }}
-        .socials {{ margin-bottom: 25px; }}
-        .social-btn {{ margin: 0 6px; display: inline-block; }}
-        .social-img {{ height: 30px; border-radius: 4px; }}
         .skills-title {{
           font-size: 20px;
           font-weight: 700;
@@ -185,7 +182,6 @@ svg_template = f"""<svg fill="none" viewBox="0 0 850 820" width="850" height="82
           margin: 8px;
           display: inline-block;
           filter: drop-shadow(0 4px 6px rgba(0,0,0,0.4));
-          transition: transform 0.2s;
         }}
       </style>
 
@@ -210,13 +206,6 @@ svg_template = f"""<svg fill="none" viewBox="0 0 850 820" width="850" height="82
           </div>
 
           <img class="illustration" src="{b64_assets['dev_gif']}" />
-
-          <div class="socials">
-            <a class="social-btn" href="https://www.linkedin.com/in/ramoncout0/"><img class="social-img" src="{b64_assets['linkedin']}" /></a>
-            <a class="social-btn" href="mailto:ramon.couto08.s@gmail.com"><img class="social-img" src="{b64_assets['gmail']}" /></a>
-            <a class="social-btn" href="https://hajikyouto.itch.io/"><img class="social-img" src="{b64_assets['itchio']}" /></a>
-            <a class="social-btn" href="https://www.instagram.com/sun.ch_/"><img class="social-img" src="{b64_assets['instagram']}" /></a>
-          </div>
 
           <div class="divider"></div>
 
