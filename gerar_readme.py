@@ -6,7 +6,7 @@ import base64
 assets = {
     "sprite_esq_1": "https://github.com/RamonCout0/RamonCout0/blob/main/img/bailarinaa.gif?raw=true",
     "sprite_esq_2": "https://github.com/RamonCout0/RamonCout0/blob/main/img/nutubus.gif?raw=true",
-    "sprite_dir_1": "https://github.com/RamonCout0/RamonCout0/blob/main/img/Sofia.gif?raw=true",
+    "sprite_dir_1": "https://github.com/RamonCout0/RamonCout0/blob/main/img/Tonobis.gif?raw=true",
     "sprite_dir_2": "https://github.com/RamonCout0/RamonCout0/blob/main/img/repete.gif?raw=true",
     
     # O link do dev_gif estava cortado no seu, aqui está o link inteiro e consertado:
